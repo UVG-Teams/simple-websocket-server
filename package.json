@@ -1,0 +1,8 @@
+{
+    "name": "simple-websocket-server",
+    "version": "0.0.1",
+    "type": "module",
+    "dependencies": {
+        "ws": "^8.2.1"
+    }
+}
